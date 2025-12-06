@@ -1,0 +1,7 @@
+{
+  "name": "NeuralLocal WebGPU",
+  "description": "A fully local AI suite running in your browser using WebGPU. Features Speech-to-Text, Translation, and a local LLM.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
